@@ -1,0 +1,23 @@
+{
+  "name": "bmdc",
+  "version": "1.0.0",
+  "description": "bmdc",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nassan/bmdc.git"
+  },
+  "author": "Nassan Paul",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/nassan/bmdc/issues"
+  },
+  "homepage": "https://github.com/nassan/bmdc#readme",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
